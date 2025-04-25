@@ -1,1 +1,3 @@
-this user file for testing
+class user{
+
+}
