@@ -9,5 +9,8 @@ int k = 20;
 String name = "ashokit";
 }
 
-this is sample data
+// 102-JIRA story
+void m2() {
+// logic
+}
 
